@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c99228821b0229e094764418a190126",
+    "revision": "4018bcee8fb64d9b2b7d18e7f8fae8e3",
     "url": "/shaping-the-path/index.html"
   },
   {
-    "revision": "67bf0c819307c4e06749",
-    "url": "/shaping-the-path/static/css/main.14b3489c.chunk.css"
+    "revision": "82a1080428a728918b4c",
+    "url": "/shaping-the-path/static/css/main.aad178c7.chunk.css"
   },
   {
     "revision": "c8758675f953a2252894",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shaping-the-path/static/js/2.607746a0.chunk.js.LICENSE"
   },
   {
-    "revision": "67bf0c819307c4e06749",
-    "url": "/shaping-the-path/static/js/main.ae8c8df6.chunk.js"
+    "revision": "82a1080428a728918b4c",
+    "url": "/shaping-the-path/static/js/main.202354d7.chunk.js"
   },
   {
     "revision": "8a806975a6d0522917bf",
